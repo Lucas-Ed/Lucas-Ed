@@ -1,4 +1,4 @@
-###  Bem vindo ao meu Perfil !!!
+###  Bem vindo(a) ao meu Perfil !!!
 Aqui estão meus arquivos, públicos voltados para Quant Finance e Análise de dados econômicos
 
 ### Repositórios em construção !
