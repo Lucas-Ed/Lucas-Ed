@@ -1,14 +1,14 @@
 # Olá seja bem vindo(a)
 
 
-#### Prazer, sou Lucas! Um cara que gosta de tecnologia 👨‍💻
+## Prazer, sou Lucas! Um cara que gosta de tecnologia 👨🏻‍💻 💻
 
 
-🎓Graduando em Economia na [FHO-Uniararas](http://www.uniararas.br/)
+🎓  👨‍🎓 Graduando em Economia na [FHO-Uniararas](http://www.uniararas.br/)
 
-Aqui estão meus arquivos, públicos voltados para Quant Finance, Análise de dados econômicos e Business intelligence.
+💾 Aqui estão meus arquivos, públicos voltados para Quant Finance, Análise de dados econômicos e Business intelligence.
 
-### Repositórios em construção!
+### 🚧🚧 Repositórios em construção! 🏗 👷 🧱🚧..........
 ## Linguagens
 
 <a href="#">
@@ -28,7 +28,7 @@ Aqui estão meus arquivos, públicos voltados para Quant Finance, Análise de da
 
 O aprendizado é continuo e o próximo nível nunca será o último 🚀 
 
-### Contatos
+### Contatos 📞
 
 <a href="https://api.whatsapp.com/send?phone=5519998235078">
     <img src="svg/social/whatsapp.svg"  alt="whatsapp" style="vertical-align:top; margin:6px 4px">
