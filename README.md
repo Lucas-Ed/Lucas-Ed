@@ -30,24 +30,24 @@ O aprendizado é continuo e o próximo nível nunca será o último 🚀
 
 ### Contatos
 
-<a href="#">
+<a href="https://api.whatsapp.com/send?phone=5519998235078">
     <img src="svg/social/whatsapp.svg"  alt="whatsapp" style="vertical-align:top; margin:6px 4px">
   </a>
 
-  <a href="#">
+  <a href="https://t.me/lucased">
     <img src="svg/social/telegram.svg"  alt="telegram" style="vertical-align:top; margin:6px 4px">
   </a> 
 
-  <a href="#">
+  <a href="mailto:lucas.eduuardoo@alunos.fho.edu.br">
     <img src="svg/social/gmail.svg"  alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>  
 
-<a href="#">
-    <img src="svg/social/instagram.svg" (https://www.instagram.com/lucas.eduardo007/)  alt="instagram" style="vertical-align:top; margin:6px 4px">
+<a href="https://www.instagram.com/lucas.eduardo007/">
+    <img src="svg/social/instagram.svg"   alt="instagram" style="vertical-align:top; margin:6px 4px">
   </a>  
 
-<a href="#">
-    <img src="svg/social/linkedin.svg"  (https://www.linkedin.com/in/lucas-eduardo-rosolem-aa535697/) alt="linkedin" style="vertical-align:top; margin:6px 4px">
+<a href="https://www.linkedin.com/in/lucas-eduardo-rosolem-aa535697/">
+    <img src="svg/social/linkedin.svg"  alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>  
 
 
