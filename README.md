@@ -10,10 +10,46 @@ Aqui estão meus arquivos, públicos voltados para Quant Finance, Análise de da
 
 ### Repositórios em construção!
 ## Linguagens
-<img src="https://img.shields.io/badge/R-studio-blue" /> <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />
+
+<a href="#">
+    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+
+ <a href="#">
+    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+
+ <a href="#">
+    <img src="svg/dev/languages/rsoftware.svg" alt="rsoftware" style="vertical-align:top; margin:6px 4px">
+  </a>  
 
 
 O aprendizado é continuo e o próximo nível nunca será o último 🚀 
+
+### Contatos
+
+<a href="#">
+    <img src="svg/social/whatsapp.svg" (https://api.whatsapp.com/send?phone=5519998235078) alt="whatsapp" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="svg/social/telegram.svg" (@lucased) alt="telegram" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
+    <img src="svg/social/gmail.svg" (lucas.eduuardoo@alunos.fho.edu.br) alt="gmail" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+<a href="#">
+    <img src="svg/social/instagram.svg" (https://www.instagram.com/lucas.eduardo007/)  alt="instagram" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+<a href="#">
+    <img src="svg/social/linkedin.svg"  (https://www.linkedin.com/in/lucas-eduardo-rosolem-aa535697/) alt="linkedin" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
 
   
 <p align = "center">
