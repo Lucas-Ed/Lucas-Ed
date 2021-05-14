@@ -4,12 +4,12 @@
 ## Prazer, sou Lucas! Um cara que gosta de tecnologia 👨🏻‍💻 💻
 
 
-🎓  👨‍🎓 Graduando em Economia na [FHO-Uniararas](http://www.uniararas.br/)
+🎓  👨‍🎓 Acadêmico de Economia na [FHO-Uniararas](http://www.uniararas.br/)
 
 💾 Aqui estão meus arquivos, públicos voltados para Quant Finance, Análise de dados econômicos e Business intelligence.
 
 ### 🚧🚧 Repositórios em construção! 🏗 👷 🧱🚧..........
-## Linguagens
+## Linguagens e Ferramentas
 
 <a href="#">
     <img src="svg/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
@@ -24,6 +24,10 @@
  <a href="#">
     <img src="svg/languages/rsoftware.svg" alt="rsoftware" style="vertical-align:top; margin:6px 4px">
   </a>  
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
 O aprendizado é continuo e o próximo nível nunca será o último 🚀 
@@ -50,6 +54,8 @@ O aprendizado é continuo e o próximo nível nunca será o último 🚀
     <img src="svg/social/linkedin.svg"  alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>  
 
+<a href="https://www.facebook.com/lucaseduardo.rosolem">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> | `https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white </a>
 
 
 
