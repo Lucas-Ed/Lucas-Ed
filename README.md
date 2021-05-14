@@ -34,11 +34,11 @@ O aprendizado é continuo e o próximo nível nunca será o último 🚀
 
 ### Contatos 📞
 
-<a href="https://api.whatsapp.com/send?phone=5519998235078">
+<a href="https://bit.ly/3uMmzeI">
     <img src="svg/social/whatsapp.svg"  alt="whatsapp" style="vertical-align:top; margin:6px 4px">
   </a>
 
-  <a href="https://t.me/lucased">
+  <a href="https://bit.ly/2QjsTeT">
     <img src="svg/social/telegram.svg"  alt="telegram" style="vertical-align:top; margin:6px 4px">
   </a> 
 
@@ -46,15 +46,15 @@ O aprendizado é continuo e o próximo nível nunca será o último 🚀
     <img src="svg/social/gmail.svg"  alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>  
 
-<a href="https://www.instagram.com/lucas.eduardo007/">
+<a href="https://bit.ly/3ybr0Sj">
     <img src="svg/social/instagram.svg"   alt="instagram" style="vertical-align:top; margin:6px 4px">
   </a>  
 
-<a href="https://www.linkedin.com/in/lucas-eduardo-rosolem-aa535697/">
+<a href="https://bit.ly/2RU9X6B">
     <img src="svg/social/linkedin.svg"  alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>  
 
-<a href="https://www.facebook.com/lucaseduardo.rosolem">
+<a href="https://bit.ly/33L8m5P">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
 
 
