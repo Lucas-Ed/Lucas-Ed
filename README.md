@@ -70,7 +70,7 @@ O aprendizado é continuo e o próximo nível nunca será o último 🚀
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/Lucas-Ed)]
 
-< !--(https://brunos3d.github.io) -- >
+<!--(https://brunos3d.github.io)-- >
 
 
 
