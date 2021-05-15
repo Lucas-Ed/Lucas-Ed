@@ -68,9 +68,9 @@ O aprendizado é continuo e o próximo nível nunca será o último 🚀
   <a href="https://github.com/Lucas-Ed "><img src="https://github-readme-stats.vercel.app/api?username=Lucas-Ed&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Lucas-Ed"/></a>
 </p>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/Lucas-Ed
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/Lucas-Ed)](https://github.com/Lucas-Ed)
 
-<!--(https://brunos3d.github.io)-- >
+
 
 
 
