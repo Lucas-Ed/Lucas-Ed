@@ -4,7 +4,7 @@
 ## Prazer, sou Lucas! Um cara que gosta de tecnologia 👨🏻‍💻 💻
 
 
-🎓  👨‍🎓 ##Acadêmico de Economia na [FHO-Uniararas](http://www.uniararas.br/)
+🎓  👨‍🎓 # Acadêmico de Economia na [FHO-Uniararas](http://www.uniararas.br/)
 
 ### Atualmente estou aprendendo de forma autodidata desenvolvimento web com Django, Flask, Hugo e Jekyll com Blogdown no Rstudio.
 
