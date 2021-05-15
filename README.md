@@ -6,7 +6,7 @@
 
 🎓  👨‍🎓 # Acadêmico de Economia na [FHO-Uniararas](http://www.uniararas.br/)
 
-### Atualmente estou aprendendo de forma autodidata desenvolvimento web com Django, Flask, Hugo e Jekyll com Blogdown no Rstudio.
+#### Atualmente estou aprendendo de forma autodidata desenvolvimento web com Django, Flask, Hugo e Jekyll com Blogdown no Rstudio.
 
 💾 Aqui estão meus arquivos, públicos voltados para Quant Finance, Análise de dados econômicos e Business intelligence e outros.
 
