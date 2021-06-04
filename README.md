@@ -69,7 +69,7 @@ O aprendizado é continuo e o próximo nível nunca será o último 🚀
 </p>
 
 
-![Snake animation](https://github.com//Lucas-Ed/Lucas-Ed/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com//Lucas-Ed/Lucas-Ed/blob/output/github-contribution-grid-snake.svg)-->
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/Lucas-Ed)](https://github.com/Lucas-Ed)
 
