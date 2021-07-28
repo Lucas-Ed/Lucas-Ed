@@ -64,8 +64,8 @@ O aprendizado é continuo e o próximo nível nunca será o último 🚀
 
   
 <p align = "center">
-  <a href="https://github.com/Lucas-Ed "><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Ed&layout=compact&theme=dark"/></a> 
-  <a href="https://github.com/Lucas-Ed "><img src="https://github-readme-stats.vercel.app/api?username=Lucas-Ed&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Lucas-Ed"/></a>
+  <a href="https://github.com/Lucas-Ed "><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Ed&layout=compact&theme=radical"/></a> 
+  <a href="https://github.com/Lucas-Ed "><img src="https://github-readme-stats.vercel.app/api?username=Lucas-Ed&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Lucas-Ed"/></a>
 </p>
 
 
