@@ -1,14 +1,14 @@
 # Olá seja bem vindo(a)
 
 
-## Prazer, sou Lucas! Um cara que gosta de tecnologia 👨🏻‍💻 💻
+## Prazer, sou Lucas! Estou buscando desenvolver mais minhas habilidades com tecnologias em geral. 👨🏻‍💻 💻
 
 
 🎓  👨‍🎓 # Acadêmico de Economia na [FHO-Uniararas](http://www.uniararas.br/)
 
-#### Atualmente estou aprendendo de forma autodidata desenvolvimento web com Django, Flask, Hugo e Jekyll com Blogdown no Rstudio.
+#### Atualmente estou aprendendo de forma autodidata desenvolvimento web.
 
-💾 Aqui estão meus arquivos, públicos voltados para Quant Finance, Análise de dados econômicos e Business intelligence e outros.
+💾 Aqui também estão meus arquivos, públicos voltados para Quant Finance, Análise de dados econômicos e Business intelligence e outros.
 
 ### 🚧🚧 Repositórios em construção! 🏗 👷 🧱🚧..........
 ## Linguagens e Ferramentas
@@ -33,7 +33,7 @@
 
 O aprendizado é continuo e o próximo nível nunca será o último 🚀 
 
-### Contatos 📞
+### Contatos 📲
 
 <a href="https://bit.ly/3uMmzeI">
     <img src="svg/social/whatsapp.svg"  alt="whatsapp" style="vertical-align:top; margin:6px 4px">
