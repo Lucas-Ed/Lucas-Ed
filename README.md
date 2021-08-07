@@ -1,4 +1,4 @@
-# Olá seja bem vindo(a)
+![screedbot (1)](https://github.com/Lucas-Ed/Lucas-Ed/blob/master/img/newgif.gif)
 
 
 ## Prazer, sou Lucas! Estou buscando desenvolver mais minhas habilidades com tecnologias em geral. 👨🏻‍💻 💻
