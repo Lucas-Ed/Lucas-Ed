@@ -2,7 +2,7 @@
 
 
 ## Prazer, sou Lucas! Estou buscando desenvolver mais minhas habilidades com tecnologias em geral. 👨🏻‍💻 💻
-
+<img align="right" width="300px" alt="GG-GIF" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 
 🎓  👨‍🎓 # Acadêmico de Economia na [FHO-Uniararas](http://www.uniararas.br/)
 
@@ -71,9 +71,12 @@ O aprendizado é continuo e o próximo nível nunca será o último 🚀
 
 ![Snake animation](https://github.com/Lucas-Ed/Lucas-Ed/blob/output/github-contribution-grid-snake.svg)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/Lucas-Ed)](https://github.com/Lucas-Ed)
+<p align="center">Visitantes</p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/Lucas-Ed/count.svg" /></p>
 
+<!--[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/Lucas-Ed)](https://github.com/Lucas-Ed)-->
 
+<!--<p align="center"><img align="center" src="https://profile-counter.glitch.me/{***SEU NOME NO GITHUB***}/count.svg" /></p>-->
 
 
 
