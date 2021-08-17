@@ -6,9 +6,9 @@
 
 🎓  👨‍🎓 # Acadêmico de Economia na [FHO-Uniararas](http://www.uniararas.br/)
 
-       # Cursando desenvolvimento Front End no [Senai Limeira](https://limeira.sp.senai.br/curso/95402/505/programador-frontend)
-       
-      # Nas Horas vagas estudo algumas tecnologias.
+     Cursando desenvolvimento Front End no [Senai Limeira](https://limeira.sp.senai.br/curso/95402/505/programador-frontend)
+
+     Nas Horas vagas estudo algumas tecnologias.
 
 💾 Aqui também estão meus arquivos, públicos voltados para Quant Finance, Análise de dados econômicos e Business intelligence e outros.
 
