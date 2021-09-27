@@ -29,7 +29,7 @@ Nas Horas vagas estudo algumas tecnologias.
     <img src="svg/languages/rsoftware.svg" alt="rsoftware" style="vertical-align:top; margin:6px 4px">
   </a>   
 
-<img align="center" alt="Edu-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
+<img align="center" alt="Edu-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript" />
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
