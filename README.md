@@ -1,14 +1,8 @@
 ![screedbot (1)](https://github.com/Lucas-Ed/Lucas-Ed/blob/master/img/newgif.gif)
 
 
-## Prazer, sou Lucas! Estou buscando desenvolver mais minhas habilidades com tecnologias em geral. 👨🏻‍💻 💻
+## Prazer, sou Lucas! Estou buscando sempre, desenvolver cada vez mais minhas habilidades com tecnologia. 👨🏻‍💻 💻
 <img align="right" width="300px" alt="GG-GIF" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
-
-🎓  👨‍🎓 # Acadêmico de Economia na [FHO-Uniararas](http://www.uniararas.br/)
-
-Cursando desenvolvimento Front End no [Senai Limeira](https://limeira.sp.senai.br/curso/95402/505/programador-frontend)
-
-Nas Horas vagas estudo algumas tecnologias.
 
 💾 Aqui também estão meus arquivos, públicos voltados para Quant Finance, Análise de dados econômicos e Business intelligence e outros.
 
