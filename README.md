@@ -2,7 +2,7 @@
 
 
 ## Prazer, sou Lucas! Estou buscando sempre, desenvolver cada vez mais minhas habilidades com tecnologia. 👨🏻‍💻 💻
-<img align="right" width="300px" alt="GG-GIF" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
+<img align="right" height="140px" width="250px" alt="GG-GIF" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 
 💾 Aqui também estão meus arquivos, públicos voltados para Quant Finance, Análise de dados econômicos e Business intelligence e outros.
 
