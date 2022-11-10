@@ -7,8 +7,7 @@
 
 <img align="right" height="140px" width="250px" alt="GG-GIF" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 
----
-<h3 align="right">  </h3>
+<br>
 
 <a href="#">
     <img src="svg/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
