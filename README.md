@@ -6,18 +6,14 @@
 
 <img align="right" height="140px" width="250px" alt="GG-GIF" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 
-<h3 align="right">Linguagens e Ferramentas que venho usado:</h3>
-
-
 <a href="#">
     <img src="svg/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
   </a> 
 
-
  <!-- <a href="#">
     <img src="svg/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>   -->
-
+<h3 align="right">Linguagens e Ferramentas que venho usado:</h3>
 
  <a href="#">
     <img src="svg/languages/rsoftware.svg" alt="rsoftware" style="vertical-align:top; margin:6px 4px">
