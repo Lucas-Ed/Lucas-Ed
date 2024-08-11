@@ -71,7 +71,7 @@
 <details open>
 <summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
 <br>
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Lucas-Ed&theme=tokyo-night&hide_border=true&cache_seconds=0">
+<!--<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Lucas-Ed&theme=tokyo-night&hide_border=true&cache_seconds=0">-->
 <br><br>
 
 ![Snake animation](https://github.com/Lucas-Ed/Lucas-Ed/blob/output/github-contribution-grid-snake.svg)
