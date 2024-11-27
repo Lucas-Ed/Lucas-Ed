@@ -1,8 +1,8 @@
 ![screedbot (1)](https://github.com/Lucas-Ed/Lucas-Ed/blob/master/img/newgif.gif)
 
 
-<h2 align="center"> Prazer, sou Lucas; estou buscando sempre, desenvolver cada vez mais minhas habilidades com tecnologia. 👨🏻‍💻 💻 </h2>
-
+<h2 align="center"> Prazer, Lucas; Estou buscando sempre desenvolver cada vez mais minhas habilidades com tecnologia. 👨🏻‍💻 💻 </h2>
+<br>
 
 <img align="right" height="140px" width="250px" alt="GG-GIF" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 
