@@ -6,6 +6,7 @@
 
 <img align="right" height="140px" width="250px" alt="GG-GIF" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 <br>
+<br>
 <!-----<h3 align="right">Linguagens e Ferramentas que venho usado:</h3>----->
 <a href="#">
     <img src="svg/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
